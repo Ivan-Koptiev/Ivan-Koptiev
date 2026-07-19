@@ -44,7 +44,8 @@ I enjoy bridging the gap between raw data and actionable intelligence, whether I
 📫 **Get in touch:**
 *   [Portfolio/Website](https://ivan-koptiev.github.io/portfolio-website/)
 *   [LinkedIn](https://www.linkedin.com/in/ivan-koptiev/)
-*   Email: koptew.ivan@gmail.com
+*   [Resume](https://Ivan-Koptiev.github.io/portfolio-website/Resume.pdf)
+*   [Email](mailto:koptew.ivan@gmail.com)
 
 ---
 *Always learning, always building. Currently diving deeper into deep learning architectures.*
