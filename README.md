@@ -4,6 +4,8 @@
 
 I am an incoming Data Science student at the **University of Rhode Island Honors College (Expected 2029)** with a passion for building AI-driven solutions. My work focuses on computer vision, deep learning, and automating complex workflows. 
 
+My official Resume: [Resume](https://Ivan-Koptiev.github.io/portfolio-website/Resume.pdf)
+
 I enjoy bridging the gap between raw data and actionable intelligence, whether I'm training GANs or building real-time tracking systems.
 
 ---
@@ -44,7 +46,6 @@ I enjoy bridging the gap between raw data and actionable intelligence, whether I
 📫 **Get in touch:**
 *   [Portfolio/Website](https://ivan-koptiev.github.io/portfolio-website/)
 *   [LinkedIn](https://www.linkedin.com/in/ivan-koptiev/)
-*   [Resume](https://Ivan-Koptiev.github.io/portfolio-website/Resume.pdf)
 *   [Email](mailto:koptew.ivan@gmail.com)
 
 ---
