@@ -14,11 +14,12 @@ I enjoy bridging the gap between raw data and actionable intelligence, whether I
 
 **Languages:**
 *   Python (Primary)
+*   R
 *   Java
 
 **Data & Machine Learning:**
 *   **Frameworks:** PyTorch, TensorFlow, scikit-learn
-*   **Analysis:** pandas, NumPy, matplotlib
+*   **Analysis:** pandas, NumPy, matplotlib, ggplot2
 
 **Languages (Human):**
 *   🇺🇦 Ukrainian (Native)
