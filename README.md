@@ -48,6 +48,3 @@ I enjoy bridging the gap between raw data and actionable intelligence, whether I
 *   [Portfolio/Website](https://ivan-koptiev.github.io/portfolio-website/)
 *   [LinkedIn](https://www.linkedin.com/in/ivan-koptiev/)
 *   [Email](mailto:koptew.ivan@gmail.com)
-
----
-*Always learning, always building. Currently diving deeper into deep learning architectures.*
