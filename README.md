@@ -12,7 +12,7 @@ I enjoy applying Machine Learning to other fields, including Physics and Astrono
 
 ### 🛠 Tech Stack & Tools
 
-**Languages:**
+**Programming Languages:**
 *   Python (Primary)
 *   R
 *   Java
@@ -21,7 +21,7 @@ I enjoy applying Machine Learning to other fields, including Physics and Astrono
 *   **Frameworks:** PyTorch, TensorFlow, scikit-learn
 *   **Analysis:** pandas, NumPy, matplotlib, ggplot2
 
-**Languages (Human):**
+**Spoken Languages:**
 *   🇺🇦 Ukrainian (Native)
 *   🇷🇺 Russian (Native)
 *   🇺🇸 English (Fluent)
