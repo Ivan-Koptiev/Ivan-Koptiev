@@ -2,11 +2,11 @@
 
 ## 🚀 Future Data Scientist & Machine Learning Engineer
 
-I am an incoming Data Science student at the **University of Rhode Island Honors College (Expected 2029)** with a passion for building AI-driven solutions. My work focuses on computer vision, deep learning, and automating complex workflows. 
+I am an incoming Data Science student at the **University of Rhode Island Honors College (Expected 2029)** with a passion for research and applications of Machine Learning. My work focuses on computer vision, deep learning, and data analysis. 
 
-My official Resume: [Resume](https://Ivan-Koptiev.github.io/portfolio-website/Resume.pdf)
+My Resume: [Resume](https://Ivan-Koptiev.github.io/portfolio-website/Resume.pdf)
 
-I enjoy bridging the gap between raw data and actionable intelligence, whether I'm training GANs or building real-time tracking systems.
+I enjoy applying Machine Learning to other fields, including Physics and Astronomy.
 
 ---
 
@@ -25,8 +25,8 @@ I enjoy bridging the gap between raw data and actionable intelligence, whether I
 *   🇺🇦 Ukrainian (Native)
 *   🇷🇺 Russian (Native)
 *   🇺🇸 English (Fluent)
-*   🇮🇹 Italian (Intermediate)
-*   🇫🇷 French (Intermediate)
+*   🇮🇹 Italian (Pre-Intermediate)
+*   🇫🇷 French (Pre-Intermediate)
 
 ---
 
