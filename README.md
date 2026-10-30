@@ -2,7 +2,9 @@
 
 ## 🚀 Future Data Scientist & Machine Learning Engineer
 
-I am an incoming Data Science student at the **University of Rhode Island Honors College (Expected 2029)** with a passion for research and applications of Machine Learning. My work focuses on computer vision, deep learning, and data analysis. 
+I am a Data Science student at the **University of Rhode Island Honors College (Expected 2029)** with a passion for research and applications of Machine Learning. My work focuses on computer vision, deep learning, and data analysis.
+
+### Currently Machine Learning Research Volunteer at the University of Rhode Island's **Institute for AI & Computational Research**
 
 My Resume: [Resume](https://Ivan-Koptiev.github.io/portfolio-website/Resume.pdf)
 
@@ -32,6 +34,7 @@ I enjoy applying Machine Learning to other fields, including Physics and Astrono
 
 ### 💼 Recent Experience & Projects
 
+*   **Machine Learning Research Volunteer @ URI AI Lab (September 2026 - Current):** Working with a team of ML Specialists and Marine Biology Students on classifying the deep sea footage and using computer vision to detect and classify marine species.
 *   **Machine Learning Intern @ SERP (2025–2026):** Developed a real-time computer vision system for boxing analytics utilizing YOLO and Bot-SORT to extract match statistics.
 *   **Transformer-Based Sentiment Analysis:** Fine-tuned BERT for text classification with 81% accuracy; built a production-ready inference pipeline.
 *   **Fashion GAN Generator:** Engineered a Generative Adversarial Network from scratch, trained on Fashion-MNIST, achieving high visual fidelity in synthetic image generation.
